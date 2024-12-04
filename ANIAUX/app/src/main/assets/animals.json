@@ -1,0 +1,70 @@
+{
+  "animals": [
+    {
+      "name": "Bessie",
+      "type": "cow",
+      "imageUrl": "https://www.stockvault.net//data/2016/11/30/217620/thumb16.jpg"
+    },
+    {
+      "name": "Bessie",
+      "type": "cow",
+      "imageUrl": "https://www.stockvault.net//data/2019/07/15/266817/thumb16.jpg"
+    },
+    {
+      "name": "Bessie",
+      "type": "cow",
+      "imageUrl": "https://www.stockvault.net//data/2016/11/30/217620/thumb16.jpg"
+    },
+    {
+      "name": "Bessie",
+      "type": "cow",
+      "imageUrl": "https://www.stockvault.net//data/2018/10/19/255434/thumb16.jpg"
+    },
+    {
+      "name": "Daisy",
+      "type": "cow",
+      "imageUrl": "https://image.shutterstock.com/image-photo/cow-grazing-field-sunset-background-450w-2504664783.jpg"
+    },
+    {
+      "name": "Shaun",
+      "type": "sheep",
+      "imageUrl": "https://media.istockphoto.com/id/958471082/photo/prime-lambs-on-green-grass.webp?b=1&s=612x612&w=0&k=20&c=zwOIfVvp338KRcmkyoWwP1Vm36FJcGPFjalXfZVaS2Q="
+    },
+    {
+      "name": "Shaun",
+      "type": "sheep",
+      "imageUrl": "https://media.istockphoto.com/id/161953792/photo/side-view-of-a-sheep-looking-away-against-white-background.webp?b=1&s=612x612&w=0&k=20&c=oShRHfacFngSbv_-IRCXU5a-02RzTqQ7P5jo8cUEtTI="
+    },
+    {
+      "name": "Shaun",
+      "type": "sheep",
+      "imageUrl": "https://media.istockphoto.com/id/182344013/photo/sheep.webp?b=1&s=612x612&w=0&k=20&c=VpDYGfAYcRYOB6dAlou6AOkWxHlVF1FoduK4rVoP8oM="
+    },
+    {
+      "name": "Shaun",
+      "type": "sheep",
+      "imageUrl": "https://www.stockvault.net//data/2012/05/17/130905/thumb16.jpg"
+    },
+    {
+      "name": "Fluffy",
+      "type": "sheep",
+      "imageUrl": "https://www.stockvault.net//data/2012/09/19/135735/thumb16.jpg"
+    },
+    {
+      "name": "Billy",
+      "type": "goat",
+      "imageUrl": "https://www.stockvault.net//data/2009/07/28/109663/thumb16.jpg"
+    },
+    {
+      "name": "Nanny",
+      "type": "goat",
+      "imageUrl": "https://www.stockvault.net//data/2009/07/28/109672/thumb16.jpg"
+    },
+    {
+      "name": "Nanny",
+      "type": "goat",
+      "imageUrl": " https://www.stockvault.net//data/2008/06/24/105726/thumb16.jpg"
+    }
+
+  ]
+}

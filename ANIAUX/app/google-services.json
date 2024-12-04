@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818182209333",
+    "project_id": "aniaux-219a0",
+    "storage_bucket": "aniaux-219a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818182209333:android:e49aa2a75f4d6babd6167c",
+        "android_client_info": {
+          "package_name": "com.smartherd.aniaux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgJufXF1Yl0iPlcYfQQdOB3M-nIPWH-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

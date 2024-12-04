@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ANIAUX</string>
+    <string name="sheep">Sheep</string>
+    <string name="cow">Cows</string>
+    <string name="goat">Goat</string>
+    <string name="all">All</string>
+    <string name="AnimalImage">Animal Image</string>
+    <string name="placeholder_search">Search</string>
+
+
+</resources>
